@@ -1,6 +1,6 @@
 [project]
 name = "binomial-heap-py"
-version = "0.1.2"
+version = "0.1.3"
 description = "Python implementation of a binomial heap with fast worst-case queue merging."
 requires-python = ">=3.10"
 dependencies = []
